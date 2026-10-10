@@ -2,4 +2,7 @@ pandas
 numpy
 seaborn
 dill
+xgboost
+catboost
+scikit-learn
 #-e .
